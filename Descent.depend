@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1515364516 source:/home/tyler/Documents/Programming/C++ Projects/Descent/main.cpp
+	<iostream>
+	<fstream>
+	"CharacterData.hpp"
+
+1513528450 /home/tyler/Documents/Programming/C++ Projects/Descent/CharacterData.hpp
+
